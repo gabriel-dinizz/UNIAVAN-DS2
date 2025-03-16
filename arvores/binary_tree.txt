@@ -1,0 +1,16 @@
+A binary tree in DSA is a way to organize data in a hierarchical structure. In a binary tree, each node has at most two children called the left and the right children. The topmost node is called the root, and the nodes with no children are called leaves.
+
+The Basic idea of a binary tree is to have a parent-child relationship between nodes. Each node can have a leftand right child, and this pattern continues down the tree. This structure makes it easy to organize and find data quickly.
+
+---------------
+
+FULL BINARY TREE:
+  A full binary tree is a tree where every node has either 0 or 2 children
+
+COMPLETE BINARY TREE:
+  A complete binary tree is a tree where all levels are fully filled except possibly the last level, which is filled from left to right.
+
+PERFECT BINARY TREE:
+  A perfect binary tree is a tree where all internal nodes have exactly two children and all leaf nodes are the same level
+
+BALANCED BINARY TREE:
